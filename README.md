@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cryptobellum/cryptobellum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I enjoy knitting, playing chess, and baking. 
 - Something I'd like to explore more: quantum machine learning
--->
